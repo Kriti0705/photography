@@ -1,0 +1,10 @@
+li {
+    font-weight: 700;
+}
+
+.gallery {
+    margin: 5px;
+    /* border: 1px solid #ccc; */
+    float: left;
+    width: 700px;
+}
